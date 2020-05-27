@@ -14,7 +14,11 @@ Source 2 might break it, I don't know, but it still works.
 
 
 Changelog:
+
 v1 - First release (idea) - only gun names translated
+
 v2 - Skin names translated
+
 v3 - More names and skins translated
+
 v4 (Current) - Panorama UI ready + lot's of adding and updating
