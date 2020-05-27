@@ -8,12 +8,13 @@ I made it because pt-BR version of the game translation has gun skin names trans
 ---
 # INSTALLATION:
 
->To install, just go to the releases and download the latest. 
+To install, just do the following:
+- Go to the releases page and download the latest version. 
 https://github.com/fxvnder/csgo_fxvnder/releases
 
->drop the file on "Your Steam Folder"\steamapps\common\Counter-Strike Global Offensive\csgo\resource
+- Drop the file on "Your Steam Folder"\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 
->then go to CS:GO launch commands and add "-language fxvnder"
+- Then go to CS:GO launch commands and add "-language fxvnder"
 
 ---
 
