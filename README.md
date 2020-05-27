@@ -5,8 +5,17 @@ FXVNDER's pt-PT Language Pack for CS:GO
 It adds all weapon name/skins translation to pt-PT aside with jokes and all sorts of stuff.
 I made it because pt-BR version of the game translation has gun skin names translated etc. and I felt jealous of it, so I just started my own translation of it lol. seems logical, right?
 
-To install, just go to the releases and download the latest. 
+---
+# INSTALLATION:
+
+>To install, just go to the releases and download the latest. 
 https://github.com/fxvnder/csgo_fxvnder/releases
+
+>drop the file on "Your Steam Folder"\steamapps\common\Counter-Strike Global Offensive\csgo\resource
+
+>then go to CS:GO launch commands and add "-language fxvnder"
+
+---
 
 This will probably be updated with recent cases/skins etc.
 
