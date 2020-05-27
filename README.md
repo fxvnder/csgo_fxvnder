@@ -28,10 +28,12 @@ Source 2 might break it, I don't know, but it still works.
 
 Changelog:
 
-v1 - First release (idea) - only gun names translated
+v1 - First release (idea) - only gun names translated (~2016)
 
 v2 - Skin names translated
 
-v3 - More names and skins translated
+v3 - More names and skins translated (~2018)
 
-v4 (Current) - Panorama UI ready + lot's of adding and updating
+v4 - Panorama UI ready + lot's of adding and updating
+
+v5 - 2020 build. Finally updating stuff again. Lots of work to do tho! (Current)
