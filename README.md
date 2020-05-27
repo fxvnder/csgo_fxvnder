@@ -5,6 +5,8 @@ FXVNDER's pt-PT Language Pack for CS:GO
 It adds all weapon name/skins translation to pt-PT aside with jokes and all sorts of stuff.
 I made it because pt-BR version of the game translation has gun skin names translated etc. and I felt jealous of it, so I just started my own translation of it lol. seems logical, right?
 
+It also adds a custom-made version of Bananagaming's Text Mod in pt-PT.
+
 ---
 # INSTALLATION:
 
