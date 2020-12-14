@@ -1,5 +1,8 @@
 # "csgo_fxvnder"
 
+# IMPORTANT: IT MIGHT BE OUTDATED/DEPRECATED.
+IF YOU'RE HERE FOR A PT VERSION OF THE BANANAGAMING TEXT MOD I RECOMMEND USING THE TRANSLATIONS ON HIS WEBSITE: https://maximhere.me/customizations/
+
 FXVNDER's pt-PT Language Pack for CS:GO
 
 It adds all weapon name/skins translation to pt-PT aside with jokes and all sorts of stuff.
@@ -20,9 +23,9 @@ https://github.com/fxvnder/csgo_fxvnder/releases
 
 ---
 
-This will probably be updated with recent cases/skins etc.
+This will probably be updated with recent cases/skins etc. if I have time to do so.
 
-Source 2 might break it, I don't know, but it still works.
+Source 2 (KEKW) might break it, I don't know, but it still works.
 
 -----
 
